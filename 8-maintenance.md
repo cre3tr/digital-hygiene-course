@@ -6,15 +6,15 @@
 
 ## 📅 Monthly Tasks
 
-- [ ] Check login activity on critical accounts
-- [ ] Install device and app updates
-- [ ] Verify backups (3-2-1 rule)
+- Check login activity on critical accounts
+- Install device and app updates
+- Verify backups (3-2-1 rule)
 
 ## 🔄 Quarterly Tasks
 
-- [ ] Audit passwords in password manager
-- [ ] Review social media privacy settings
-- [ ] Test backup restoration process
+- Audit passwords in password manager
+- Review social media privacy settings
+- Test backup restoration process
 
 ## 🚨 Emergency Response
 
@@ -23,9 +23,9 @@
 
 ## 📊 Security Scorecard
 
-- Password hygiene: ___/5
-- Device security: ___/5
-- Privacy controls: ___/5
-- Total: ___/15
+- Password hygiene: -/5
+- Device security: -/5
+- Privacy controls: -/5
+- Total: --/15
 
 **Navigation:** [7. Lesson 5: Digital Footprint Cleanup](7-lesson-5-footprint.html) | [9. Bonus Resources](9-bonus-resources.html)
