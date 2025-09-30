@@ -7,15 +7,16 @@ Advanced tools to enhance your digital security.
 ## 🔧 Privacy Tools
 
 - **YubiKey 5 Series**: Hardware 2FA ($25-70)
-- **Bitwarden**: Open-source password manager
+- **1Password**: Best for families, intuitive interface
 - **ProtonMail**: Encrypted email
-- **NordVPN** or **ProtonVPN**: No-logs VPNs
+- **ProtonVPN**: No-logs VPNs
 - **Brave Browser**: Built-in privacy features
 
 ## 🛡️ Identity Protection
 
 - **OneRep**: Automated data broker removal ($100/year)
 - **Credit Karma**: Free credit monitoring
+- **ESET Identity Protection**: A paid security solution that protects your personal, credit and financial information.
 
 ## 📚 Learning Resources
 
