@@ -42,9 +42,13 @@
 </details>
 
 **Scoring:**
+
 **10**: Mastered digital security!
+
 **8-9**: Strong foundation, review weak areas.
+
 **6-7**: Good, focus on key concepts.
+
 **<6**: Revisit lessons for better understanding.
 
 **Navigation:** [9. Bonus Resources](9-bonus-resources.html) | [0. Course-Home](index.html)
