@@ -6,8 +6,6 @@
 
 ## 📋 Questions (2 points each)
 
---*--
-
 <details>
   <summary> 1. According to the course, what is a primary reason to use an authenticator app for 2FA instead of SMS?</summary>
   
@@ -38,15 +36,7 @@
   <p><b> Answer: C) Review social media privacy settings.</b> The routine distinguishes between monthly tasks (like updates) and deeper quarterly tasks like auditing passwords and privacy settings.</p>
 </details>
 
-## ✅ Answer Key
 
-<details>
-1 = B, 
-2 = C, 
-3 = B, 
-4 = B, 
-5 = C
-</details>
 
 **Scoring:**
 
