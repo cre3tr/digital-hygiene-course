@@ -33,11 +33,13 @@
 
 ## ✅ Answer Key
 
+<details>
 1 = B, 
 2 = C, 
 3 = B, 
 4 = B, 
 5 = C
+</details>
 
 **Scoring:**
 **10**: Mastered digital security!
