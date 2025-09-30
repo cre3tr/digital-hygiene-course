@@ -13,26 +13,24 @@ Weak or reused passwords cause most breaches. A password manager ensures strong,
 ### Step 1: Choose a Password Manager
 
 - **1Password**: Best for families, intuitive interface
-- **Bitwarden**: Open-source, robust free tier
-- **Dashlane**: User-friendly, premium features
 
 ### Step 2: Install and Set Up
 
-- [ ] Download the app and browser extension
-- [ ] Create account with a strong master password (use Diceware: 6-8 random words, e.g., "horse battery staple correct lamp ocean")
+- Download the app and browser extension
+- Create account with a strong master password (use Diceware: 6-8 random words, e.g., "horse battery staple correct lamp ocean")
 
 ### Step 3: Migrate and Generate Passwords
 
-- [ ] Import existing passwords from browsers or other managers
-- [ ] Generate 16+ character unique passwords for critical accounts (banking, email, social media)
-- [ ] Store 2FA backup codes in secure notes
+- Import existing passwords from browsers or other managers
+- Generate 16+ character unique passwords for critical accounts (banking, email, social media)
+- Store 2FA backup codes in secure notes
 
 ## ✅ Completion Checklist
 
-- [ ] Password manager installed
-- [ ] Strong master password created
-- [ ] Critical accounts migrated
-- [ ] 2FA backup codes stored
+- Password manager installed
+- Strong master password created
+- Critical accounts migrated
+- 2FA backup codes stored
 
 **🔒 Security Tip:** Your master password is critical. Never reuse it and keep it memorable but unique.
 
