@@ -12,32 +12,32 @@ Cloud breaches can expose sensitive files. Proper settings prevent unauthorized 
 
 ### Step 1: Audit Shared Links
 
-- [ ] **Google Drive:** [drive.google.com](http://drive.google.com) → Shared → Remove unnecessary access
-- [ ] **Dropbox:** [dropbox.com](http://dropbox.com) → Sharing → Delete unused links
-- [ ] **OneDrive:** [onedrive.live.com](http://onedrive.live.com) → Shared → Revoke expired shares
+- **Google Drive:** [drive.google.com](http://drive.google.com) → Shared → Remove unnecessary access
+- **Dropbox:** [dropbox.com](http://dropbox.com) → Sharing → Delete unused links
+- **OneDrive:** [onedrive.live.com](http://onedrive.live.com) → Shared → Revoke expired shares
 
 ### Step 2: Secure Sharing Settings
 
-- [ ] Set link expiration (30-90 days)
-- [ ] Use password protection for sensitive shares
-- [ ] Prefer "view only" permissions
+- Set link expiration (30-90 days)
+- Use password protection for sensitive shares
+- Prefer "view only" permissions
 
 ### Step 3: Encrypt Sensitive Files
 
-- [ ] Use tools like **VeraCrypt** or **Cryptomator** for encryption
-- [ ] Organize files by sensitivity level in separate folders
+- Use tools like **VeraCrypt** or **ESET Secure Data** for encryption
+- Organize files by sensitivity level in separate folders
 
 ### Step 4: Backup Strategy
 
-- [ ] Follow 3-2-1 rule: 3 copies, 2 media types, 1 offsite
-- [ ] Enable versioning for key documents
+- Follow 3-2-1 rule: 3 copies, 2 media types, 1 offsite
+- Enable versioning for key documents
 
 ## ✅ Completion Checklist
 
-- [ ] Shared links audited
-- [ ] Secure sharing settings applied
-- [ ] Sensitive files encrypted
-- [ ] Backup strategy implemented
+- Shared links audited
+- Secure sharing settings applied
+- Sensitive files encrypted
+- Backup strategy implemented
 
 **🔒 Security Tip:** Regularly review shared links to ensure only authorized users have access.
 
