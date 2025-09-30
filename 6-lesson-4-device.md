@@ -39,6 +39,6 @@ Unsecured devices and communications are vulnerable to theft, SIM swapping, and 
 - SIM swapping protection in place
 - VPN configured for public networks
 
-**🔒 Security Tip:** Treat your phone like your wallet—lock it and track it.
+**🔒 Security Tip:** Treat your phone like your wallet - lock it and track it.
 
 **Navigation:** [5. Lesson 3: Cloud Storage Security](5-lesson-3-cloud.html) | [7. Lesson 5: Digital Footprint Cleanup](7-lesson-5-footprint.html)
