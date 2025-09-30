@@ -6,56 +6,6 @@
 
 ## 📋 Questions (2 points each)
 
-Q1. According to the course, what is a primary reason to use an authenticator app for 2FA instead of SMS?
-
-A) They work offline
-
-B) To avoid SIM swapping risks
-
-C) They are supported by more websites
-
-D) To add a carrier account PIN
-
-Q2. Lesson 2 suggests using the "Diceware" method to create a strong master password. What does this method involve?
-
-A) Using 16+ random characters
-
-B) Using a mix of upper, lower, and special characters
-
-C) Using 6-8 random words
-
-D) Using a family member's name
-
-Q3. Which of the following is a tool specifically recommended for encrypting sensitive files before storing them in the cloud?
-
-A) Google Drive
-
-B) Cryptomator
-
-C) OneRep
-
-D) YubiKey
-
-Q4. The "Digital Footprint Cleanup" lesson recommends using a specific service for creating alias phone numbers to protect your real one. What service is it?
-
-A) Signal
-
-B) Google Voice
-
-C) WhatsApp
-
-D) ProtonMail
-
-Q5. What is one of the quarterly tasks recommended in the "Monthly Maintenance Routine"?
-
-A) Install device and app updates
-
-B) Check login activity on critical accounts
-
-C) Review social media privacy settings
-
-D) Verify backups
-
 --*--
 
 <details>
