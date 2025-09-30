@@ -40,7 +40,7 @@ Assess your security posture with this checklist. Score each completed item as i
 - Data broker removal requests submitted **(2 points)**
 - Unused accounts deleted **(2 points)**
 
-**🎯 Security Score:** ___/40 points
+**🎯 Security Score:** --/40 points
 
 **Scoring Rubric:**
 - **36-40**: Excellent! Maintain with monthly checks.
