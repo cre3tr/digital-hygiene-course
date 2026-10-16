@@ -21,7 +21,7 @@
 <details>
   <summary> 3. Which of the following is a tool specifically recommended for encrypting sensitive files before storing them in the cloud?</summary>
   
-  <p><b> Answer: B) Cryptomator.</b> Cryptomator and VeraCrypt are mentioned as tools for encrypting files, adding a crucial layer of security to your cloud storage.</p>
+  <p><b> Answer: B) VeraCrypt.</b> VeraCrypt and ESET Secure Data are recommended in the course as tools for encrypting files, adding a crucial layer of security to your cloud storage.</p>
 </details>
 
 <details>

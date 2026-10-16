@@ -47,4 +47,4 @@ Your digital footprint can enable identity theft or harassment. Reducing it lowe
 
 **🔒 Security Tip:** Repeat this audit every 6 months to stay private.
 
-**Navigation:** [6. Lesson 4: Device & Communication Security](6-lesson-4-device.html) | [8. Monthly Maintenance](8-maintenance.md)
+**Navigation:** [6. Lesson 4: Device & Communication Security](6-lesson-4-device.html) | [8. Monthly Maintenance](8-maintenance.html)

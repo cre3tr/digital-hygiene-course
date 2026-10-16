@@ -1,5 +1,3 @@
-# 1. Introduction
-
 # 📌 Introduction
 
 Welcome to Digital Hygiene Pro! This toolkit will help you secure your digital life without needing advanced technical knowledge.

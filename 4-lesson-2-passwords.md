@@ -13,6 +13,9 @@ Weak or reused passwords cause most breaches. A password manager ensures strong,
 ### Step 1: Choose a Password Manager
 
 - **1Password**: Best for families, intuitive interface
+- **Bitwarden**: Open-source, free tier available, self-hostable
+- **Dashlane**: Strong breach monitoring and dark web alerts
+- **Keeper**: Good for teams and business use
 
 ### Step 2: Install and Set Up
 
