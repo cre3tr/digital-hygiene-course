@@ -37,4 +37,4 @@ Your email is the master key to your accounts. A breach can lead to password res
 
 **🔒 Security Tip:** Authenticator apps are more secure than SMS for 2FA due to SIM swapping vulnerabilities.
 
-**Navigation:** [3. Lessons_Overview](3-lessons-overview.html) | [4. Lesson 2: Password Management](4-lesson-2-passwords.html)
+**Navigation:** [3. Lessons Overview](3-lessons-overview.html) | [4. Lesson 2: Password Management](4-lesson-2-passwords.html)

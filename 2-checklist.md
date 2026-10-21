@@ -48,4 +48,4 @@ Assess your security posture with this checklist. Score each completed item as i
 - **20-29**: Moderate risk. Prioritize 2FA and password management.
 - **<20**: High risk. Start with email and device security.
 
-**Navigation:** [1. Introduction](1-introduction.html) | [3. Lessons-Overview](3-lessons-overview.html)
+**Navigation:** [1. Introduction](1-introduction.html) | [3. Lessons Overview](3-lessons-overview.html)

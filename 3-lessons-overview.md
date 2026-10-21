@@ -1,5 +1,3 @@
-# 3. Lessons_Overview
-
 # 📚 Lessons Overview
 
 Complete these lessons in order to build your digital security foundation:
@@ -29,4 +27,4 @@ Complete these lessons in order to build your digital security foundation:
 
 ---
 
-**Navigation:** [2. Checklist](2-checklist.html) | [Lesson 1: Email & Account Security](3-lesson-1-email.html)
+**Navigation:** [2. Checklist](2-checklist.html) | [3. Lesson 1: Email & Account Security](3-lesson-1-email.html)
