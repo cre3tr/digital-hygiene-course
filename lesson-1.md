@@ -9,7 +9,9 @@ Your work email is the key to everything else. Whoever controls it can reset the
 
 **Turn on 2-step login, using an app.** A text message code is better than nothing, but anyone who takes over your phone number with a SIM swap gets your codes too. An authenticator app on your phone, such as Google Authenticator or Microsoft Authenticator (checked 2026-10-23), doesn't depend on your SIM.
 
-**Never share a code or a PIN.** No bank, no Safaricom agent and no supplier will ever ask you to read out a code that was just sent to you. If someone asks, it's a scam, however urgent or official they sound. This is the habit the *Kaa Chonjo* awareness campaign is about.
+**Never share a code or a PIN.** Nobody from your bank or Safaricom support, and no supplier, will ever ask for your PIN or for a code that was just sent to you. If someone asks, it's a scam, however urgent or official they sound. This is the habit the Kenya Bankers Association's *Kaa Chonjo* campaign is about.
+
+**Know how Safaricom calls.** Safaricom only calls from 0722 000 000. If a call from any other number says it's Safaricom, hang up and call support yourself: 100 for prepaid, 200 for postpaid, 400 for Home Fibre (checked 2026-10-23).
 
 **Keep work and personal apart.** Recovery emails and phone numbers on work accounts should be ones the business controls, not your personal Gmail. When you leave, the business must be able to get back in.
 
@@ -29,7 +31,7 @@ A caller says they're from Safaricom and asks you to read out the code they've j
 
 <details markdown="1"><summary>Show answer</summary>
 
-**A.** Anyone who asks for a code that was sent to you is trying to log in as you. The code is the last thing standing between them and your account.
+**A.** Anyone who asks for a code that was sent to you is trying to log in as you. The code is the last thing standing between them and your account. And Safaricom only calls from 0722 000 000.
 
 </details>
 
