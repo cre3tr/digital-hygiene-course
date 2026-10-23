@@ -27,7 +27,7 @@ A website you signed up to years ago says it was breached. Your work email uses 
 - B) Attackers will try that password on your work email next.
 - C) Only that old website is affected.
 
-<details><summary>Show answer</summary>
+<details markdown="1"><summary>Show answer</summary>
 
 **B.** Breached passwords are tried automatically on other sites. Change the work password today, and use a unique one from now on.
 

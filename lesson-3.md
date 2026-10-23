@@ -27,7 +27,7 @@ Your boss messages from a new number: "Urgent, pay this supplier to the new payb
 - B) Reply to the message asking if it's really them.
 - C) Call your boss on the number you already have, before paying.
 
-<details><summary>Show answer</summary>
+<details markdown="1"><summary>Show answer</summary>
 
 **C.** Urgency and a new number are the two signs of payment fraud. Replying to the message asks the scammer to confirm their own scam.
 

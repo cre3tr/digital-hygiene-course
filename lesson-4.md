@@ -30,7 +30,7 @@ Your work phone was stolen last night. It had work email on it. What first?
 - B) Wait a few days in case it turns up.
 - C) Change your phone wallpaper on your new phone.
 
-<details><summary>Show answer</summary>
+<details markdown="1"><summary>Show answer</summary>
 
 **A.** Signing the stolen phone out of work accounts is quick, but only once someone knows. Every hour it stays signed in is a risk to the business.
 

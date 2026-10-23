@@ -29,7 +29,7 @@ You need help wording a reply to an upset customer. What can you paste into a fr
 - B) Their file, so the chatbot has the full picture.
 - C) The situation in general terms, with no names or details.
 
-<details><summary>Show answer</summary>
+<details markdown="1"><summary>Show answer</summary>
 
 **C.** Describe the problem, never the person. Whatever you paste may be kept by the tool's provider.
 

@@ -27,7 +27,7 @@ A caller says they're from Safaricom and asks you to read out the code they've j
 - B) Read it out, since they already know your number.
 - C) Read out only the first half.
 
-<details><summary>Show answer</summary>
+<details markdown="1"><summary>Show answer</summary>
 
 **A.** Anyone who asks for a code that was sent to you is trying to log in as you. The code is the last thing standing between them and your account.
 
