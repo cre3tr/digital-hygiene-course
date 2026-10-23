@@ -1,23 +1,21 @@
-# 🔒 Digital Hygiene: Pro
+---
+layout: default
+title: "Digital hygiene for your team"
+---
 
-Master digital security in ~2.5 hours.
+# Digital hygiene for your team
 
-## 📊 Progress Tracker
+**From Cartman Systems.** Six short lessons, about 15 minutes each, for everyone who works in the business. Each lesson ends with a few things to do now and one quick question.
 
-- Introduction (2 mins)
-- Security Audit Checklist (10 mins)
-- Lesson 1: Email & Accounts Security (15 mins)
-- Lesson 2: Password Management (20 mins)
-- Lesson 3: Cloud Storage Security (20 mins)
-- Lesson 4: Device & Communication Security (25 mins)
-- Lesson 5: Digital Footprint Cleanup (60 mins)
-- Monthly Maintenance Setup (10 mins)
-- Bonus Resources Review (5 mins)
-- Final Quiz (10 mins)
+**This copy is read-only and sends nothing.** To have Cartman Systems review your team's results, take the course at [cartman.systems/hygiene](https://cartman.systems/hygiene?src=pages).
 
-## 📌 Start Here
+## Lessons
 
-- [1. Introduction](1-introduction.html)
-- [2. Checklist](2-checklist.html)
+1. [Your work accounts](lesson-1.html)
+2. [Passwords](lesson-2.html)
+3. [Payments and messages](lesson-3.html)
+4. [Your devices](lesson-4.html)
+5. [Customer information](lesson-5.html)
+6. [Files and backups](lesson-6.html)
 
-**Navigation:** [1. Introduction](1-introduction.html)
+[Every month, five minutes](monthly.html)
