@@ -9,7 +9,7 @@ The most expensive scams don't break into anything. They ask someone to send mon
 
 **"We've changed our bank details."** A message arrives from a supplier you pay often, or from your own boss, asking you to pay to a new account, till or paybill. Treat every such change as suspicious. **Confirm it by calling a number you already have**, not one in the message, before any money moves. The owner sets this rule. Staff are the ones who keep it.
 
-**Fake M-PESA messages.** A text that looks like an M-PESA confirmation can be typed by anyone. Before you hand over goods or change, check the payment in the business's own M-PESA statement or till, not in a text someone shows you or sends you.
+**Fake M-PESA messages.** A text that looks like an M-PESA confirmation can be typed by anyone. Before you hand over goods or change, check the payment in the business's own M-PESA statement or till, not in a text someone shows you or sends you. Forward any scam text to 333, Safaricom's fraud reporting number (checked 2026-10-23).
 
 **WhatsApp takeovers.** If you get a WhatsApp code you didn't ask for, someone is trying to register your number on their phone. Don't share it. Turn on WhatsApp's two-step verification PIN (Settings, then Account, checked 2026-10-23), so a stolen code alone isn't enough.
 
