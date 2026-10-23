@@ -26,7 +26,7 @@ Your laptop won't start and has to be wiped. Which files can be recovered?
 - B) Only the files that were saved in the business's backed-up storage.
 - C) Only files you emailed to yourself.
 
-<details><summary>Show answer</summary>
+<details markdown="1"><summary>Show answer</summary>
 
 **B.** A backup is only as good as what's in it. That's why where you save matters more than how often anyone backs up.
 
