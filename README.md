@@ -14,8 +14,8 @@ from one copy source in Cartman's private planning repo, and
     node scripts/hygiene/build.mjs --write    # regenerate both copies
 
 Generated here: `index.md`, `lesson-1.md` to `lesson-6.md`, `monthly.md`,
-`_config.yml` and `_layouts/default.html`. This README is excluded from the
-site (`_config.yml`).
+`_config.yml` and `_layouts/default.html`. This README and `CLAUDE.md` are
+hand-written and excluded from the site (`_config.yml`).
 
 Until 2026-10-23 this repo held an earlier version for individuals, "Digital
 Hygiene Pro". It is in git history.
