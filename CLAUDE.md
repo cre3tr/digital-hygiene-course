@@ -13,8 +13,10 @@ then run `node scripts/hygiene/build.mjs --write` from `c-a-r-t-m-a-n`. A hand
 edit here is overwritten on the next write, and the check mode (no `--write`)
 reports it as drift, with exit 1.
 
-The only hand-written files are `README.md` and this `CLAUDE.md`. Both are kept
-off the site by `_config.yml`'s `exclude`. That file is generated too, so a new
+The hand-written files are `README.md`, this `CLAUDE.md`, and since 2026-11-04
+the six-doc set (`MISSION.md`, `VISION.md`, `BACKLOG.md`, `SECURITY.md`,
+`ARCHITECTURE.md`, plus the README). All are kept off the site by
+`_config.yml`'s `exclude`. That file is generated too, so a new
 hand-written file needs its name added to the `exclude:` line in
 `c-a-r-t-m-a-n/scripts/hygiene/build.mjs`. Without that, Jekyll publishes it.
 `CLAUDE.md` was added there on 2026-10-29.
