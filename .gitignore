@@ -1,0 +1,15 @@
+# Secrets: never commit env files (examples stay tracked)
+.env
+.env.*
+!.env.example
+
+# Jekyll build output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS and editor noise
+.DS_Store
+.vscode/
+.idea/
